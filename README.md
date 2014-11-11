@@ -1,5 +1,4 @@
 hello-world
 ===========
 
-First repository
-For practice and testing
+First repository: For practice and testing
